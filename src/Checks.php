@@ -164,7 +164,7 @@ class Checks
             'It seems like this website is running on a <strong>non-development environment</strong>,
              while development mode is enabled (<code>APP_ENV=dev</code> and/or <code>APP_DEBUG=1</code>).
              Ensure debug is disabled in production environments, otherwise it will
-             result in an extremely large <code>var/cache</code> folder and a measurable reduced
+             result in an extremely large <code>var/cache</code> folder and a measurably reduced
              performance.',
             "If you wish to hide this message, add a key to your <abbr title='config/extensions/bobdenotter-configurationnotices.yaml'>
              config <code>yaml</code></abbr> file with a (partial) domain name in it, that should be
